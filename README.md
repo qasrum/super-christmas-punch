@@ -1,2 +1,3 @@
-# super-christmas-punch
-Official Github repository for the upcoming video game, "Super Christmas Punch"!.
+# Super Christmas Punch!'s official Github repository.
+
+Do NOT use any code from this project. Do NOT copy any files.
